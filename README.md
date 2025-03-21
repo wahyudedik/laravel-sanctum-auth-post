@@ -13,7 +13,8 @@
 - CRUD POST
 
 ## Testing the API
-You can use tools like Postman or Insomnia to test your API endpoints:
+You can use tools like Postman or Insomnia to test your API endpoints: 
+Scrambel :http://127.0.0.1:8000/docs/api
 
 ### Authentication Endpoints
 
